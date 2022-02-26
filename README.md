@@ -51,7 +51,7 @@ Distributed under the MIT License. See ``MIT License`` for more information.
 ## Support
 If you want you can join our **support server**.  [support channel] (https://discord.gg/BfpMqubMRR). 
 
-[![Github][Github]](https://github.com/issac756/poketwo-Autocatcher)
+[![Github][Github]](https://github.com/ichiicki)
 
 
 
