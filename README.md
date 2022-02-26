@@ -53,8 +53,6 @@ If you want you can join our **support server**.  [support channel] (https://dis
 
 [![Github][Github]](https://github.com/issac756/poketwo-Autocatcher)
 
-## Support
-If you want you can join our **support server**.  [support channel] (https://discord.gg/BfpMqubMRR). 
 
 
 <!-- Markdown link & img dfn's -->
