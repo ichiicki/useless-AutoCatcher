@@ -27,6 +27,8 @@ _For more examples and usage, please refer to the [`env example`](https://docs.r
 
 * 0.0.1
     * CHANGE: `Updated missing pokemons` 
+* 0.0.2
+    * Added log system and fixed `missing pokemons` (prob).
 
 ## Self Bot ToS
 <div class="container" style="margin-top:auto;margin-bottom:auto;text-align:center;">
