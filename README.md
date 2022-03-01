@@ -48,7 +48,7 @@ IF, and only if you accept the above rules of selfbots, then you may proceed.
 
 ## Meta
 
-Distributed under the MIT License. See ``MIT License`` for more information.
+Distributed under the LICENSE. See ``MIT License`` for more information.
 
 ## Support
 If you want you can join our **support server**.  [support channel](https://discord.gg/4psP62y3HK).
