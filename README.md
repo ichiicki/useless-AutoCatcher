@@ -51,7 +51,7 @@ IF, and only if you accept the above rules of selfbots, then you may proceed.
 Distributed under the MIT License. See ``MIT License`` for more information.
 
 ## Support
-If you want you can join our **support server**.  [support channel] (https://discord.gg/BfpMqubMRR). 
+If you want you can join our **support server**.  [support channel](https://discord.gg/4psP62y3HK).
 
 [![Github][Github]](https://github.com/ichiicki)
 
